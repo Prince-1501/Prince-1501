@@ -1,5 +1,5 @@
 # Hi, I'm Prince 👋
-![Profile Count](https://komarev.com/ghpvc/?username=Prince-1501)
+![Profile Count](https://komarev.com/ghpvc/?username=Prince-1501) 
 ![github](https://github.com/Prince-1501/Prince-1501/blob/master/princekumar.jpg)
 
 I'm a software Developer and tech enthusiast who is passionate about making open-source more accessible, creating technology to elevate people, 
