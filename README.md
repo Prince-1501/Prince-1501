@@ -9,7 +9,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Prince-1501&show_icons=true&theme=merko&count_private=true" alt="Prince-1501's github stats" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prince-1501&theme=merko&layout=compact" alt="Prince-1501's github top languages" />
   
-  <div align="center">
+  <div align="left">
 
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Prince-1501&hide_border=true&theme=dracula)
     
