@@ -8,12 +8,18 @@
 <a href="https://github.com/Prince-1501">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Prince-1501&show_icons=true&theme=merko&count_private=true" alt="Prince-1501's github stats" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prince-1501&theme=merko&layout=compact" alt="Prince-1501's github top languages" />
+  
+  <div align="center">
+
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Prince-1501&hide_border=true&theme=dracula)
+    
+</div>
 </a>
+
+
 <br/>
 
-<div align="center">
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Prince-1501&hide_border=true&theme=dracula)
-</div>
+
 
 I'm a software Developer and tech enthusiast who is passionate about making open-source more accessible, creating technology to elevate people, 
 and building community Where sharing of knowledge is super easy. I'm mostly prefer C++ & Javascript (till now 😊) as Programming Language. 
