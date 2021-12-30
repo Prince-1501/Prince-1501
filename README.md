@@ -1,6 +1,13 @@
 # Hola, I'm Prince 👋
+
 [![Github](https://img.shields.io/github/followers/Prince-1501?label=Follow&style=social)](https://github.com/Prince-1501)
 ![Profile Count](https://komarev.com/ghpvc/?username=Prince-1501) 
+[![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCbW63uLlDnsL7l992Z9nF_Q?style=social)](https://www.youtube.com/channel/UCbW63uLlDnsL7l992Z9nF_Q)
+[![Twitter Follow](https://img.shields.io/twitter/follow/prince_king_?style=social)](https://twitter.com/prince_king_) 
+[![Linkedin Follow](https://img.shields.io/badge/LinkedIn-5.7k-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/iamprince/)
+
+
+
 ![github](https://github.com/Prince-1501/Prince-1501/blob/master/princekumar.jpg)
 
 
