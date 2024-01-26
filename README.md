@@ -4,7 +4,7 @@
 ![Profile Count](https://komarev.com/ghpvc/?username=Prince-1501) 
 [![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCbW63uLlDnsL7l992Z9nF_Q?style=social)](https://www.youtube.com/channel/UCbW63uLlDnsL7l992Z9nF_Q)
 [![Twitter Follow](https://img.shields.io/twitter/follow/prince_king_?style=social)](https://twitter.com/prince_king_) 
-[![Linkedin Follow](https://img.shields.io/badge/LinkedIn-8.7k-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/iamprince/)
+[![Linkedin Follow](https://img.shields.io/badge/LinkedIn-16.7k-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/iamprince/)
 
 
 
