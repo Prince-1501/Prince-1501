@@ -11,21 +11,11 @@
 ![github](https://github.com/Prince-1501/Prince-1501/blob/master/princekumar.jpg)
 
 
-
-<a href="https://github.com/Prince-1501">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Prince-1501&show_icons=true&theme=merko&count_private=true" alt="Prince-1501's github stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prince-1501&theme=merko&layout=compact" alt="Prince-1501's github top languages" />
-  
-  <div align="left">
-
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Prince-1501&hide_border=true&theme=dracula)
-    
-</div>
-</a>
-
-
-<br/>
-
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Prince-1501&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Prince-1501&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Prince-1501&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Prince-1501&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Prince-1501&theme=github)
 
 
 I'm a software Developer and tech enthusiast who is passionate about making open-source more accessible, creating technology to elevate people, 
